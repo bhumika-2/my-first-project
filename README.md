@@ -1,3 +1,3 @@
 # my-first-project
 <br>
-OWNER: Bhumika Panwar
+OWNER: Bhumika Panwar (bhumi)
